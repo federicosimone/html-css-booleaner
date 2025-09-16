@@ -13,3 +13,20 @@
     padding-top: 60px;
     padding-left: 115px;
 }
+.margini{
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.gray-text{
+    color: gray;
+}
+
+#linkboolean{
+    color: DodgerBlue;
+    text-decoration: none;
+}
+
+#little-text{
+    font-size: 10px;
+}
