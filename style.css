@@ -44,3 +44,10 @@
 #padding-ul{
     padding-left: 17px;
 }
+#blue{
+    background-color: DeepSkyBlue;
+    color: white;
+}
+.table{
+    text-align: left;
+}
