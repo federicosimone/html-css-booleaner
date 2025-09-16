@@ -33,3 +33,14 @@
     color: gray;
     font-size: 12px;
 }
+#lorem{
+    max-width: 80%;
+    margin: 0 auto;
+    padding-top: 10px;
+}
+.background-yellow{
+    background-color: yellow;
+}
+#padding-ul{
+    padding-left: 17px;
+}
