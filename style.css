@@ -71,8 +71,22 @@ table{
 h3{
     color: gray;
 }
-#screen{
-    width: 100px;
-    height: 100px;
+.text-img{
+    width: 285px;
+    height: 198px;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    padding-left: 10px;
+    padding-top: 10px;
+
+}
+#monitor{
     background-image: url(./img/monitor.jpg);
 }
+#grafico{
+    background-image: url(./img/graph.jpg);
+}
+ body{
+    padding-bottom: 30px;
+ }
